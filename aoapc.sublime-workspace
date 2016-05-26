@@ -1,0 +1,2307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"std",
+				"stdio	(UVa10082.cpp)"
+			],
+			[
+				"curr",
+				"current_floor"
+			],
+			[
+				"up",
+				"up_stop_floors	statement"
+			],
+			[
+				"down",
+				"DOWN	statement"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"pvp",
+				"pvp_arena"
+			],
+			[
+				"end",
+				"end_game"
+			],
+			[
+				"buc",
+				"BUCKET_RANGE"
+			],
+			[
+				"BU",
+				"BUCKET_RANGE"
+			],
+			[
+				"wai",
+				"wait_round"
+			],
+			[
+				"warou",
+				"wait_round"
+			],
+			[
+				"wa",
+				"waiting	statement"
+			],
+			[
+				"call",
+				"callLater	(server.py)"
+			],
+			[
+				"remo",
+				"remove	function"
+			],
+			[
+				"com",
+				"competitor"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"pla",
+				"player2"
+			],
+			[
+				"app",
+				"append	(room.py)"
+			],
+			[
+				"leng",
+				"lenght	statement"
+			],
+			[
+				"geth",
+				"get_hand_cards	(room.py)"
+			],
+			[
+				"top",
+				"topicId"
+			],
+			[
+				"is",
+				"isLogin	(connmanager.py)"
+			],
+			[
+				"Re",
+				"Response"
+			],
+			[
+				"conn",
+				"conn_id"
+			],
+			[
+				"connid",
+				"conn_id"
+			],
+			[
+				"resl",
+				"result"
+			],
+			[
+				"datapro",
+				"dataprocess	module"
+			],
+			[
+				"Ser",
+				"SerializeToString"
+			],
+			[
+				"par",
+				"parseCmdData"
+			],
+			[
+				"per",
+				"person2"
+			],
+			[
+				"protobu",
+				"protobuf_to_dict	(protobuf-to-dict.py)"
+			],
+			[
+				"refu",
+				"requset_full"
+			],
+			[
+				"geta",
+				"getattr	function"
+			],
+			[
+				"登陆",
+				"登陆失败"
+			],
+			[
+				"Req",
+				"Request"
+			],
+			[
+				"Respo",
+				"Response	(data.proto)"
+			],
+			[
+				"confi",
+				"configpath"
+			],
+			[
+				"req",
+				"request1	(data.proto)"
+			],
+			[
+				"Ex",
+				"Exception	class"
+			],
+			[
+				"conne",
+				"connect	(clienttest.py)"
+			],
+			[
+				"C",
+				"ConnectionManager"
+			],
+			[
+				"pl",
+				"players	(room_base.py)"
+			],
+			[
+				"Room",
+				"RoomCalc"
+			],
+			[
+				"rooc",
+				"roomCount	statement"
+			],
+			[
+				"ass",
+				"AssertionError	class"
+			],
+			[
+				"tagval",
+				"tag_values"
+			],
+			[
+				"clo",
+				"closeRoom"
+			],
+			[
+				"R",
+				"Room"
+			],
+			[
+				"rooma",
+				"roommanager	module"
+			],
+			[
+				"gl",
+				"GlobalObject	class"
+			],
+			[
+				"netser",
+				"netserviceHandle"
+			],
+			[
+				"serv",
+				"service	(netserver.py)"
+			],
+			[
+				"show",
+				"show_example	(protoc.py)"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"glo",
+				"global	keyword"
+			],
+			[
+				"gen",
+				"gevent"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"put_no",
+				"put_nowait"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"sor",
+				"sorted"
+			],
+			[
+				"taken",
+				"taken_node"
+			],
+			[
+				"comba",
+				"combat_list"
+			],
+			[
+				"lasbo",
+				"last_boss_from_arena"
+			],
+			[
+				"worldone",
+				"world_one"
+			],
+			[
+				"attacker_",
+				"attacker_form	(active.py)"
+			],
+			[
+				"timeou",
+				"TIMEOUT"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"passw",
+				"PASSWORD	statement"
+			],
+			[
+				"PASS",
+				"password"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"align",
+				"alignment_env"
+			],
+			[
+				"calccom",
+				"calc_combat_from_attrs"
+			],
+			[
+				"ali",
+				"alignment_env	(user.py)"
+			],
+			[
+				"form",
+				"formation"
+			],
+			[
+				"take",
+				"taken_time"
+			],
+			[
+				"format",
+				"formation	(cards.py)"
+			],
+			[
+				"NO",
+				"NONE_CARD_ID_FLAG"
+			],
+			[
+				"in",
+				"in	keyword"
+			],
+			[
+				"dum",
+				"dump	function"
+			],
+			[
+				"pr",
+				"print	keyword"
+			],
+			[
+				"endtim",
+				"end_time_config"
+			],
+			[
+				"lodeon",
+				"lodeone	(test_lode.py)"
+			],
+			[
+				"protect",
+				"protect_expire	(commander.py)"
+			],
+			[
+				"starttime",
+				"START_TIME	statement"
+			],
+			[
+				"face",
+				"facebook_id"
+			],
+			[
+				"lodeone",
+				"lode_one	(lode.py)"
+			],
+			[
+				"level",
+				"level_range"
+			],
+			[
+				"lodeo",
+				"lode_one"
+			],
+			[
+				"tak",
+				"taken_node"
+			],
+			[
+				"gift",
+				"gift"
+			],
+			[
+				"Pro",
+				"PROTECT_TIME"
+			],
+			[
+				"takui",
+				"taken_uid"
+			],
+			[
+				"carid",
+				"card_id"
+			],
+			[
+				"stren",
+				"strengthen_attrs	(cards.py)"
+			],
+			[
+				"cid",
+				"c_id	(cards.py)"
+			],
+			[
+				"buycha",
+				"buy_challenge_cost	(lode.py)"
+			],
+			[
+				"server_hr",
+				"server_hero"
+			],
+			[
+				"bases",
+				"base_string"
+			],
+			[
+				"exp",
+				"except	(run.py)"
+			],
+			[
+				"ssh",
+				"use_ssh_config"
+			],
+			[
+				"proper",
+				"property	class"
+			],
+			[
+				"prop",
+				"property	New Property"
+			],
+			[
+				"world",
+				"world_one"
+			],
+			[
+				"force",
+				"force	param"
+			],
+			[
+				"worldon",
+				"world_one	(world_one.py)"
+			],
+			[
+				"WORLD",
+				"world_one"
+			],
+			[
+				"ecf",
+				"exchange_cfg"
+			],
+			[
+				"ex",
+				"exchange_cfg"
+			],
+			[
+				"cr",
+				"create_robot"
+			],
+			[
+				"teamuid",
+				"team_uid_ranks"
+			],
+			[
+				"uids",
+				"uid_score"
+			],
+			[
+				"win",
+				"win_enemy"
+			],
+			[
+				"teamid",
+				"team_id"
+			],
+			[
+				"dail",
+				"daily_award"
+			],
+			[
+				"Gou",
+				"GROUP_KEY"
+			],
+			[
+				"with",
+				"withscores"
+			],
+			[
+				"zra",
+				"zrank	(world_one.py)"
+			],
+			[
+				"tearank",
+				"team_rank_key	(world_one.py)"
+			],
+			[
+				"team_rank",
+				"team_rank_key	(world_one.py)"
+			],
+			[
+				"Team",
+				"TEAM_KEY_PREFIX"
+			],
+			[
+				"team",
+				"team	(world_one.py)"
+			],
+			[
+				"hea",
+				"head	head"
+			],
+			[
+				"grou",
+				"group_key	statement"
+			],
+			[
+				"gro",
+				"group_key	statement"
+			],
+			[
+				"enrol",
+				"enroll_level"
+			],
+			[
+				"uiditemsal",
+				"uid_items_all_max"
+			],
+			[
+				"l",
+				"l	statement"
+			],
+			[
+				"diff",
+				"diff"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ch3/UVa10082.cpp",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch3/UVa10082.in",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch1/exp_a1.cpp",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch1/playground.cpp",
+			"settings":
+			{
+				"buffer_size": 254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/huwenchao/.zshrc",
+			"settings":
+			{
+				"buffer_size": 4464,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch1/test.cpp",
+			"settings":
+			{
+				"buffer_size": 106,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch1/test.in",
+			"settings":
+			{
+				"buffer_size": 8,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch12/UVa1671.cpp",
+			"settings":
+			{
+				"buffer_size": 1459,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch1/exp_a1.in",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aoapc.sublime-project",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/io.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/io.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/User/io.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+					""
+				],
+				[
+					"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+					"C++"
+				],
+				[
+					"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+					"Java"
+				],
+				[
+					"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+					"Python"
+				]
+			],
+			[
+				"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+				"Python"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+					""
+				],
+				[
+					"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+					"C++"
+				],
+				[
+					"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+					"Java"
+				],
+				[
+					"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+					"Python"
+				],
+				[
+					"Packages/User/io.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Protocol Buffer Syntax/Protocol Buffer.sublime-build",
+				"Python"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/QuickXDev/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/lua.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/diagram.sublime-build",
+					""
+				],
+				[
+					"Packages/User/io.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/diagram.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssan",
+				"Set Syntax: Ansible"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssansi",
+				"Set Syntax: Ansible"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remop",
+				"Package Control: Remove Package"
+			],
+			[
+				"dia",
+				"Diagram: Generate Diagrams for Active View"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"evli",
+				"Evernote: List recent notes"
+			],
+			[
+				"evernote",
+				"Evernote Settings: User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"prettyjs",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"remopaa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remopa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"omni",
+				"OmniMarkupPreviewer: Empty Cache"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"settp",
+				"Set Syntax: Python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"anacon",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"ssmarkd",
+				"Set Syntax: Markdown"
+			],
+			[
+				":ali",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				":e ",
+				":e - Revert"
+			],
+			[
+				"anacondaenfile",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"rmpa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"anarunp",
+				"Anaconda: Run Project Tests"
+			],
+			[
+				"markdown ex",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"insll",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"packcolis",
+				"Package Control: List Packages"
+			],
+			[
+				":",
+				"Package Control: List Packages"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"ana",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"ana ",
+				"Anaconda: Vagrant Up"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"1+2",
+			"import redis",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"1+2",
+			"print('hello')",
+			"print 'hello'",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/huwenchao/code/algorithms/aoapc-bac2nd"
+	],
+	"file_history":
+	[
+		"/Users/huwenchao/code/github/learn_by_demos/javascript/that.js",
+		"/Users/huwenchao/code/github/new_blog/source/_posts/2016-01-16-zsh-plugin-recommend.md",
+		"/Users/huwenchao/code/github/new_blog/source/donate/index.md",
+		"/Users/huwenchao/code/elk/logstashbook-code/center.yml",
+		"/Users/huwenchao/code/elk/logstash-2.1.1/access_test/access_test.log",
+		"/Users/huwenchao/code/test/ansible/episode-45/examples/e47-parallel.yml",
+		"/Users/huwenchao/code/test/ansible/episode-45/Vagrantfile",
+		"/Users/huwenchao/code/test/ansible/episode-45/examples/e47-serial.yml",
+		"/Users/huwenchao/code/test/ansible/episode-45/examples/e47-rolling.yml",
+		"/Users/huwenchao/code/test/ansible/episode-45/examples/e46-role-common.yml",
+		"/Users/huwenchao/Library/Application Support/Sublime Text 3/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+		"/Users/huwenchao/Library/Application Support/Sublime Text 3/Packages/User/ApplySyntax.sublime-settings",
+		"/Users/huwenchao/code/test/ansible/episode-45/examples/e46-site.yml",
+		"/Users/huwenchao/.ssh/known_hosts",
+		"/Users/huwenchao/code/test/vagrant-examples/example4/Vagrantfile",
+		"/Users/huwenchao/code/test/vagrant-examples/example6/Vagrantfile",
+		"/Users/huwenchao/Downloads/urllist.txt",
+		"/etc/supervisord.conf",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/test/pvp_test.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/test/config.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/netserver.py",
+		"/Users/huwenchao/kaiqigu/superhero2/models/guild.py",
+		"/Users/huwenchao/kaiqigu/superhero2/gconfig/back_templates/pvp_template.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/proto/data.proto",
+		"/Users/huwenchao/kaiqigu/superhero2/gconfig/contents.py",
+		"/Users/huwenchao/kaiqigu/superhero2/release.sh",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/release.sh",
+		"/Users/huwenchao/kaiqigu/superhero2/lib/db/__init__.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/gameserver.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/pvp/manager.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/tool/clienttest.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/test/test_helper.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/netsettings/yyf.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/netsettings/kl.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/startmaster.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/netsettings/dev.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/gfirefly/server/server.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/gfirefly/server/globalobject.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/test/__init__.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/long_connection_server/app/proto/data.proto",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/pvp/__init__.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/gwent/room.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/netsettings/local.py",
+		"/Users/huwenchao/kaiqigu/superhero2/gconfig/back_templates/battle_template.py",
+		"/Users/huwenchao/kaiqigu/superhero2/models/gwentcard.py",
+		"/Users/huwenchao/kaiqigu/superhero2/logics/shop.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/gwent/roommanager.py",
+		"/Users/huwenchao/kaiqigu/superhero2/lib/core/environ.py",
+		"/Users/huwenchao/code/language/javascript/backbone/hello.html",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/roommanager.py",
+		"/Users/huwenchao/code/clion_test/GCC_pre_C11/GNU_makefile_template",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/rpc.wsd",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/dev_seq.wsd",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/gateserver.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/shared/dataprocess.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/dev_seq.png",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/login_example.wsd",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/servers.wsd",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/start.md",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/servers.png",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/simple_logic.wsd",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/simple_logic.png",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/doc/login_example.png",
+		"/Users/huwenchao/Library/Application Support/Sublime Text 3/Packages/sublime_diagram_plugin/Diagram.sublime-settings",
+		"/Users/huwenchao/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/huwenchao/Library/Application Support/Sublime Text 3/Packages/User/Diagram.sublime-settings",
+		"/Users/huwenchao/code/test/python/test.pu",
+		"/Users/huwenchao/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/huwenchao/code/test/python/uml.pu",
+		"/Users/huwenchao/Library/Application Support/Sublime Text 3/Packages/sublime_diagram_plugin/samples/EXAMPLE.wsd",
+		"/Users/huwenchao/Library/Application Support/Sublime Text 3/Packages/sublime_diagram_plugin/README.md",
+		"/Users/huwenchao/kaiqigu/superhero2/gwentcard/room.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/appmain.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/gfirefly/master/master.py",
+		"/Users/huwenchao/kaiqigu/superhero2/gwentcard/client.py",
+		"/Users/huwenchao/kaiqigu/superhero2/gwentcard_server.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/net/connmanager.py",
+		"/Users/huwenchao/kaiqigu/mini_server/gfirefly/server/globalobject.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/gwent/__init__.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/gwent_room_manager.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/settings/local.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/battle/zcAStar_unittest.cpp",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/login.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/gfirefly/netconnect/protoc.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/tool/protobuf-to-dict_test.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/battle/zcAStar_unittest_result",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/tool/cli_test.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/dict_to_protobuf.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/tool/protobuf_to_dict.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/tool/addressbook.proto",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/clienttest.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/tool/protobuf-to-dict.py",
+		"/Users/huwenchao/code/github/code_labs/python_i18n/main.py",
+		"/Users/huwenchao/code/github/code_labs/python_protobuf/data.proto",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/gtwisted/core/protocols.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/settings/__init__.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/config.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/config.json",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/requirements.txt",
+		"/Users/huwenchao/kaiqigu/TransFormer_server/restart.sh",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/gfirefly/netconnect/datapack.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/proto/__init__.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/proto/Makefile",
+		"/Users/huwenchao/code/go/client.go",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/room_calc.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/room_base.py",
+		"/Users/huwenchao/kaiqigu/superhero2/.gitignore",
+		"/Users/huwenchao/anaconda/lib/python2.7/socket.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/gfirefly/netconnect/manager.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/tool/telnet_py.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/app/game/room_chat.py",
+		"/Users/huwenchao/code/test/python/test_class_refcount.py",
+		"/Users/huwenchao/kaiqigu/superhero2/long_connection_server/gfirefly/distributed/node.py",
+		"/Users/huwenchao/kaiqigu/mini_server/config.json",
+		"/Users/huwenchao/kaiqigu/mini_server/gfirefly/server/logobj.py",
+		"/Users/huwenchao/kaiqigu/mini_server/battle/main.cpp",
+		"/Users/huwenchao/kaiqigu/mini_server/battle/cocos2d_unittest.cpp",
+		"/Users/huwenchao/kaiqigu/mini_server/battle/zcAStar_unittest.cpp",
+		"/Users/huwenchao/kaiqigu/mini_server/battle/Makefile",
+		"/Users/huwenchao/kaiqigu/mini_server/app/gate/service/dispatcher.py",
+		"/Users/huwenchao/kaiqigu/mini_server/tool/telnet_py.py",
+		"/Users/huwenchao/kaiqigu/mini_server/app/gate/service/gateservice.py",
+		"/Users/huwenchao/kaiqigu/mini_server/app/net/service/netservice.py",
+		"/Users/huwenchao/kaiqigu/mini_server/gfirefly/server/admin.py",
+		"/Users/huwenchao/kaiqigu/mini_server/gfirefly/utils/services.py",
+		"/Users/huwenchao/kaiqigu/mini_server/app/net/initconfig.py",
+		"/Users/huwenchao/kaiqigu/mini_server/app/game/service/gameservice.py",
+		"/Users/huwenchao/kaiqigu/mini_server/app/game/service/dispatcher.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.py",
+			"*.md",
+			"",
+			"*/equip.py",
+			"-*.log, ",
+			"-*.log",
+			"",
+			"*/world_one.py",
+			"-*.html, -*.json, -*.js, -*.log",
+			"-*.html, -*.json, -*.js",
+			"-*.html, -*.json",
+			"-*.html",
+			"",
+			"views/*.py",
+			"-*.html",
+			"",
+			"-*.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"history",
+			"subl",
+			"DOWN",
+			".**>",
+			"mgmt",
+			"D:/Program Files/logstash-1.5.0/log/",
+			"192",
+			"168",
+			"long",
+			"/Users/huwenchao/kaiqigu/TransFormer_server/logs",
+			"prm",
+			"win_",
+			"win_a",
+			"bucket",
+			"[packed=true]",
+			"  [packed=true]",
+			"Request206",
+			"mm.user.level",
+			"gacha",
+			"repeated",
+			"optional",
+			"rank_add",
+			"lose_b",
+			"win_b",
+			"win_a",
+			"day_reward",
+			"rank",
+			"zrank",
+			"ArenaLong",
+			"market",
+			"EXPAND_INTERAL_T",
+			"EXPAND_INTERAL_TIME",
+			"60",
+			"+",
+			"bucket",
+			"servername",
+			"wating",
+			"competitor",
+			"bucket",
+			"ModelManager",
+			"uids",
+			"Shop",
+			"Arena",
+			"Shop",
+			"mm",
+			"gwent",
+			"C++ Single",
+			"begin",
+			"find",
+			"返回错误信息",
+			"'",
+			":",
+			"\"",
+			"[",
+			"<-",
+			"->",
+			"client",
+			"net",
+			"net1",
+			"->",
+			"login",
+			"[len | cmd | protoData]",
+			"paticipant",
+			"（",
+			"super+m",
+			"protobuf_to_dict",
+			"proto_to_dict",
+			"action",
+			":",
+			"print '",
+			"print",
+			"gwentcard_skill",
+			"config",
+			"uid1",
+			"client",
+			"client1_mm",
+			"client2.mm",
+			"client1.mm",
+			"client1",
+			"client",
+			"pop",
+			"protobuf_to_dict",
+			"msg = ",
+			"oppoUid",
+			"pushMsgByUids",
+			"1",
+			"gwentRoom1",
+			"        \"gwentRoom1",
+			"gwent",
+			"room",
+			"Response2",
+			"192.168.2.71",
+			"3",
+			"servername",
+			"uid_conn",
+			"login_2",
+			"login",
+			"login_101",
+			"==",
+			"repr",
+			"code",
+			"res2",
+			"1",
+			"phone",
+			"return res.SerializeToString()",
+			"req",
+			"response",
+			"requset",
+			"jenkins",
+			"env",
+			"json.load(open(self.env, 'r'))",
+			"configpath",
+			"some data lose",
+			"'localhost'",
+			"17",
+			"mark",
+			"MsgPing",
+			"_unittest.cpp",
+			"Request",
+			"response",
+			"data",
+			"cmd",
+			"act",
+			"cmd",
+			"startGame",
+			"17",
+			"data",
+			"uids, msg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"masterServiceHandle",
+			"rootServiceHandle",
+			"gfirefly",
+			"get_effect_val",
+			"world_one",
+			"world_one_new",
+			"special_chap_done_max",
+			"notice_4_get_legend_card",
+			"expedition_plan",
+			"expedition_stage",
+			"expedition_buff",
+			"钻石",
+			"legend_card",
+			"elite_card",
+			"get_elite_card_rank_key",
+			"legend_card",
+			"get_legend_card_rank_key",
+			"power",
+			"game_config.equip_gacha",
+			"user.equip_gacha",
+			"game_config.equip_loot_id",
+			"game_config.equip_gacha",
+			"user.equip_gacha"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ch3/UVa10082.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ch3/UVa10082.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								321
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ch1/exp_a1.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ch1/playground.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/huwenchao/.zshrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1919,
+								1919
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 873.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ch1/test.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ch1/test.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ch12/UVa1671.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "ch1/exp_a1.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "aoapc.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/huwenchao/code/test/go":
+	{
+		"height": 323.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 124.0
+	},
+	"output.anaconda_documentation":
+	{
+		"height": 186.0
+	},
+	"output.autopep8":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "aoapc",
+	"project": "aoapc.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rel",
+				"long_connection_server/release.sh"
+			],
+			[
+				"cinfig",
+				"long_connection_server/test/config.py"
+			],
+			[
+				"netser",
+				"long_connection_server/app/netserver.py"
+			],
+			[
+				"data.p",
+				"long_connection_server/app/proto/data.proto"
+			],
+			[
+				"cmd.md",
+				"long_connection_server/doc/commands.md"
+			],
+			[
+				"pvptest",
+				"long_connection_server/test/pvp_test.py"
+			],
+			[
+				"data.",
+				"long_connection_server/app/proto/data.proto"
+			],
+			[
+				"client",
+				"long_connection_server/tool/clienttest.py"
+			],
+			[
+				"local",
+				"long_connection_server/netsettings/local.py"
+			],
+			[
+				"temple",
+				"gconfig/back_templates/battle_template.py"
+			],
+			[
+				"roomma",
+				"long_connection_server/app/game/gwent/roommanager.py"
+			],
+			[
+				"gameser",
+				"long_connection_server/app/gameserver.py"
+			],
+			[
+				"data",
+				"long_connection_server/app/proto/data.proto"
+			],
+			[
+				"testbattle",
+				"quick_cocos2d-x/projects/superhero2/Resources/lua/ui/test_battle/battleScene.lua"
+			],
+			[
+				"gnu_makefile_template",
+				"GNU_makefile_template"
+			],
+			[
+				"stlmap",
+				"include/bits/stl_map.h"
+			],
+			[
+				"map",
+				"include/std/map"
+			],
+			[
+				"clitest",
+				"long_connection_server/tool/clienttest.py"
+			],
+			[
+				"rom",
+				"gwentcard/room.py"
+			],
+			[
+				"gwentser",
+				"gwentcard_server.py"
+			],
+			[
+				"room.p",
+				"gwentcard/room.py"
+			],
+			[
+				"game",
+				"long_connection_server/app/gameserver.py"
+			],
+			[
+				"clienttest",
+				"long_connection_server/tool/clienttest.py"
+			],
+			[
+				"unittest",
+				"long_connection_server/battle/zcAStar_unittest.cpp"
+			],
+			[
+				"proc",
+				"long_connection_server/gfirefly/netconnect/protoc.py"
+			],
+			[
+				"prototest",
+				"long_connection_server/tool/protobuf-to-dict_test.py"
+			],
+			[
+				"cli",
+				"long_connection_server/clienttest.py"
+			],
+			[
+				"clientte",
+				"long_connection_server/clienttest.py"
+			],
+			[
+				"master",
+				"long_connection_server/gfirefly/master/master.py"
+			],
+			[
+				"protoc",
+				"long_connection_server/gfirefly/netconnect/protoc.py"
+			],
+			[
+				"server",
+				"long_connection_server/gfirefly/server/server.py"
+			],
+			[
+				"glo",
+				"gfirefly/server/globalobject.py"
+			],
+			[
+				"games",
+				"app/game/service/gameservice.py"
+			],
+			[
+				"serv",
+				"gfirefly/server/server.py"
+			],
+			[
+				"erver",
+				"gfirefly/server/server.py"
+			],
+			[
+				"web",
+				"gfirefly/master/webapp.py"
+			],
+			[
+				"pro",
+				"gfirefly/netconnect/protoc.py"
+			],
+			[
+				"dbitems",
+				"anheisg/app/share/dbopear/dbItems.py"
+			],
+			[
+				"initconfig",
+				"anheisg/app/dbfront/initconfig.py"
+			],
+			[
+				"idc",
+				"settings/pub_idc.py"
+			],
+			[
+				"chat",
+				"run_chat_server.py"
+			],
+			[
+				"worldone",
+				"logics/world_one.py"
+			],
+			[
+				"lode",
+				"views/lode.py"
+			],
+			[
+				"timer",
+				"run_timer.py"
+			],
+			[
+				"modelinit",
+				"models/__init__.py"
+			],
+			[
+				"zhcn",
+				"languages/zh_CN.py"
+			],
+			[
+				"cards",
+				"views/cards.py"
+			],
+			[
+				"equi",
+				"models/equip.py"
+			],
+			[
+				"user",
+				"views/user.py"
+			],
+			[
+				"active",
+				"views/active.py"
+			],
+			[
+				"gacha",
+				"logics/gacha.py"
+			],
+			[
+				"rg",
+				"settings/tw_rg.py"
+			],
+			[
+				"run",
+				"run.py"
+			],
+			[
+				"settingsinit",
+				"settings/__init__.py"
+			],
+			[
+				"testlode",
+				"test/unit/test_lode.py"
+			],
+			[
+				"testlod",
+				"test/unit/test_lode.py"
+			],
+			[
+				"forward",
+				"views/forward.py"
+			],
+			[
+				"world",
+				"models/world_boss.py"
+			],
+			[
+				"dm",
+				"lib/statistics/dmp.py"
+			],
+			[
+				"sm",
+				"settings/sm.py"
+			],
+			[
+				"tiem",
+				"run_timer.py"
+			],
+			[
+				"command",
+				"views/commander.py"
+			],
+			[
+				"worldbos",
+				"views/world_boss.py"
+			],
+			[
+				"expe",
+				"views/expedition.py"
+			],
+			[
+				"fivefac",
+				"models/fivefaces.py"
+			],
+			[
+				"",
+				"_shell.py"
+			],
+			[
+				"arena",
+				"views/arena.py"
+			],
+			[
+				"five",
+				"views/fivefaces.py"
+			],
+			[
+				"dail",
+				"logics/daily_award.py"
+			],
+			[
+				"dai",
+				"logics/daily_award.py"
+			],
+			[
+				"modelsinit",
+				"models/__init__.py"
+			],
+			[
+				"qa",
+				"settings/qa.py"
+			],
+			[
+				"payment",
+				"logics/payment.py"
+			],
+			[
+				"testca",
+				"test/unit/test_cards.py"
+			],
+			[
+				"configtem",
+				"lib/upload/config_templates.py"
+			],
+			[
+				"testcards",
+				"test/unit/test_cards.py"
+			],
+			[
+				"taiwan",
+				"settings/pub_taiwan.py"
+			],
+			[
+				"tw",
+				"settings/tw_qa.py"
+			],
+			[
+				"const",
+				"const.py"
+			],
+			[
+				"run.",
+				"run.py"
+			],
+			[
+				"config",
+				"models/config.py"
+			],
+			[
+				"dmp",
+				"lib/statistics/dmp.py"
+			],
+			[
+				"equip",
+				"models/equip.py"
+			],
+			[
+				"taiwanin",
+				"settings/pub_taiwan_inreview.py"
+			],
+			[
+				"sec",
+				"adm/daemons/securityd.c"
+			],
+			[
+				"logind",
+				"adm/daemons/logind.c"
+			],
+			[
+				"securityd",
+				"adm/daemons/securityd.c"
+			],
+			[
+				"start",
+				"start_xkx.sh"
+			],
+			[
+				"de",
+				"deploy.sh"
+			],
+			[
+				"pubtaiwan",
+				"settings/pub_taiwan.py"
+			],
+			[
+				"statp",
+				"scrips/user_pay_stat.py"
+			],
+			[
+				"zhtw",
+				"languages/zh_TW.py"
+			],
+			[
+				"conf",
+				"lib/upload/config_templates.py"
+			],
+			[
+				"pubjinshan",
+				"settings/pub_jinshan.py"
+			],
+			[
+				"jinshan",
+				"logics/platform/jinshan.py"
+			],
+			[
+				"sco",
+				"logics/skill_script/Scorponok300.py"
+			],
+			[
+				"item",
+				"logics/item.py"
+			],
+			[
+				"sco301",
+				"logics/skill_script/Scorponok301.py"
+			],
+			[
+				"scor300",
+				"logics/skill_script/Scorponok300.py"
+			],
+			[
+				"sorno",
+				"logics/skill_script/Scorponok302.py"
+			],
+			[
+				"mobagetw",
+				"logics/platform/mobagetw.py"
+			],
+			[
+				"shop",
+				"views/shop.py"
+			],
+			[
+				"hander",
+				"handers.py"
+			],
+			[
+				"content",
+				"chat/content.py"
+			],
+			[
+				"runtimer",
+				"run_timer.py"
+			],
+			[
+				"testlo",
+				"test/unit/test_lode.py"
+			],
+			[
+				"test",
+				"settings/test.py"
+			],
+			[
+				"zh",
+				"languages/zh_CN.py"
+			],
+			[
+				"runcha",
+				"run_chat_server.py"
+			],
+			[
+				"ass",
+				"models/association.py"
+			],
+			[
+				"daila",
+				"views/daily_award.py"
+			],
+			[
+				"fivefa",
+				"views/fivefaces.py"
+			],
+			[
+				"acitve",
+				"views/active.py"
+			],
+			[
+				"friend",
+				"views/friend.py"
+			],
+			[
+				"uploadinit",
+				"lib/upload/__init__.py"
+			],
+			[
+				"testitem",
+				"test/unit/test_item.py"
+			],
+			[
+				"gift",
+				"logics/gift.py"
+			],
+			[
+				"tw_qa",
+				"settings/tw_qa.py"
+			],
+			[
+				"configte",
+				"lib/upload/config_templates.py"
+			],
+			[
+				"dmpsn",
+				"scrips/statistics/dmp_snapshot.py"
+			],
+			[
+				"zhc",
+				"languages/zh_CN.py"
+			],
+			[
+				"settingini",
+				"settings/__init__.py"
+			],
+			[
+				"idcin",
+				"settings/pub_idc_inreview.py"
+			],
+			[
+				"pubtaiwa",
+				"settings/pub_taiwan.py"
+			],
+			[
+				"pubtaiwanin",
+				"settings/pub_taiwan_inreview.py"
+			],
+			[
+				"worldon",
+				"models/world_one.py"
+			],
+			[
+				"chip",
+				"models/chip.py"
+			],
+			[
+				"worldo",
+				"logics/world_one.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 391.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
